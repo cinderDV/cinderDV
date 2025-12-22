@@ -28,6 +28,7 @@ técnico dentro de aplicaciones web.
 
 **Bases de datos & servicios**
 - Supabase (auth, database, storage)
+- PocketBase (auth, database, storage)
 
 **Infraestructura & herramientas**
 - Linux (Ubuntu Server)
