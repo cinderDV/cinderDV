@@ -17,23 +17,26 @@ técnico dentro de aplicaciones web.
 
 ## 🛠 Tecnologías
 
-**Frontend**
-- JavaScript, TypeScript
-- Vue.js, React Native
-- Vite, HTML, CSS
+**Frontend**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="30"/>
 
-**Backend**
-- Python, FastAPI
-- APIs REST
+**Backend**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="30"/>  
+<img src="https://img.shields.io/badge/PocketBase-backend-lightgrey?style=flat-square"/>
 
-**Bases de datos & servicios**
-- Supabase (auth, database, storage)
-- PocketBase (auth, database, storage)
+**Infraestructura & herramientas**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/>
 
-**Infraestructura & herramientas**
-- Linux (Ubuntu Server)
-- Docker, Coolify
-- Git, GitHub, VS Code
+**Gráficos 3D (complementario)**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="30"/>
 
 ## 📌 Proyectos destacados
 
