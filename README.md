@@ -9,14 +9,13 @@ Estudiante de Ingeniería Civil en Computación e Informática · Desarrollo Web
 
 Estudiante de Ingeniería Civil en Computación e Informática, enfocado en el desarrollo de software y aplicaciones web modernas.
 
-Mi objetivo es formarme como desarrollador **fullstack**, con especial interés en el desarrollo frontend, la integración de visualización y gráficos 3D, y la automatización de infraestructura para despliegues eficientes.
+Mi objetivo es formarme como desarrollador **fullstack**, con especial interés en el desarrollo frontend, y la automatización de infraestructura para despliegues eficientes.
 
 ## 🚀 Stack Tecnológico
 
 **Frontend & Visualización:**
 - Desarrollo con **JavaScript y TypeScript**, utilizando **HTML y CSS** para interfaces responsivas
 - Frameworks modernos: **Next.js** y **Vite** para aplicaciones web optimizadas
-- Integración de **gráficos 3D con Three.js** en entornos web
 
 **Backend & Bases de Datos:**
 - Soluciones BaaS: **Supabase** y **PocketBase** para APIs, autenticación y gestión de datos
